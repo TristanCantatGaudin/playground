@@ -1,2 +1,2 @@
 # playground
-misc notebooks
+Miscellaneous scripts and notebooks for data scraping, visualisation, statistics, machine learning.
