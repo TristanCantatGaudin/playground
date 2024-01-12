@@ -11,6 +11,8 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [prior_likelihood_conflict](/statistics/prior_likelihood_conflict.ipynb) - illustration of the combination of Gaussians and t-distributions (as likelihoods, or prior-likelihood), showing the importance of the behaviour of the tails.
 
+## Astronomy
+
 [cube_galaxy_sky](/statistics/cube_galaxy_sky.ipynb) - maximum likelihood, forward modelling using a selection function
 
 
