@@ -3,7 +3,7 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 
 
-## Statistics
+## Statistics and mathematics
 
 [algebra_fitting_polynomials](/statistics/algebra_fitting_polynomials.ipynb) - ordinary and generalised least squares, with a full matrix of covariance, and covariance on the best-fit result
 
