@@ -15,6 +15,7 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [cube_galaxy_sky](/statistics/cube_galaxy_sky.ipynb) - maximum likelihood, forward modelling using a selection function
 
+[gaia_archive_queries](/statistics/gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
 
 ## Data science
 
