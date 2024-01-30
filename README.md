@@ -27,6 +27,8 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers
 
+[hierarchical_clustering_sp500](hierarchical_clustering_sp500.ipynb) - pandas, pct_change, pivot, correlations. scipy, hierarchical clustering, dendrograms. 
+
 [rookies_bball_ref_2024_race](/nba/rookies_bball_ref_2024_race.ipynb) - urllib and BeautifulSoup to get html tags from a table, pandas to read tables from multiple pages
 
 [scrape_all_rookie_stats](/nba/scrape_all_rookie_stats.ipynb) - pandas to read tables, flatten nested columns
