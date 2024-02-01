@@ -27,6 +27,8 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [geotagged_photos_venezia](geotagged_photos_venezia.ipynb) - FlickrAPI, convert date+time strings to `datetime` objects, get dayofyear, dayofweek etc.
 
+[google_trends](google_trends.ipynb) - use pytrends package to plot *super bowl* and *roman numerals* search volumes since 2004
+
 [ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers
 
 [hierarchical_clustering_sp500](hierarchical_clustering_sp500.ipynb) - pandas, pct_change, pivot, correlations. scipy, hierarchical clustering, dendrograms. 
