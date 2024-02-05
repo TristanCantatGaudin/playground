@@ -21,7 +21,7 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [gaia_archive_queries](/statistics/gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
 
-## Data science
+## Data science and visualisation
 
 Examples using Python libraries for data scraping, cleaning, visualisation, processing.
 
