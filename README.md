@@ -31,6 +31,8 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers
 
+![image](https://raw.githubusercontent.com/TristanCantatGaudin/ADS-Gaia-Citations/main/citations_per_month.png)
+
 [hierarchical_clustering_sp500](hierarchical_clustering_sp500.ipynb) - pandas, pct_change, pivot, correlations. scipy, hierarchical clustering, dendrograms. 
 
 [nba_shot_charts_hexbin](/nba/nba_shot_charts_hexbin.ipynb) - manipulate matplotlib `hexbin` plots, tweak bin size and color
