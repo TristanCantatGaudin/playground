@@ -19,7 +19,7 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [gmm_ngc_2506](gmm_ngc_2506.ipynb) - query Gaia data, use sklearn to fit a GMM to the proper motions, pick cluster members
 
-[gaia_archive_queries](/statistics/gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
+[gaia_archive_queries](gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
 
 ## Data science and visualisation
 
