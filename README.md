@@ -29,7 +29,7 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 ![image](/img/img_venezia.png)
 
-[google_trends](google_trends.ipynb) - use pytrends package to plot *super bowl* and *roman numerals* search volumes since 2004
+[google_trends](google_trends.ipynb) - use pytrends package to plot search volumes
 
 ![image](/img/img_google_trends.png)
 
