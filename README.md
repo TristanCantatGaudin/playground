@@ -31,6 +31,8 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [google_trends](google_trends.ipynb) - use pytrends package to plot *super bowl* and *roman numerals* search volumes since 2004
 
+![image](/img/img_google_trends.png)
+
 [ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers
 
 ![image](https://raw.githubusercontent.com/TristanCantatGaudin/ADS-Gaia-Citations/main/citations_per_month.png)
