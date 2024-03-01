@@ -15,6 +15,10 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 ## Astronomy
 
+[composite_Gaia_cmd](/statistics/composite_Gaia_cmd.ipynb) - astroquery for Vizier, twinx and twiny axes, rcParams options
+
+![image](/img/img_cmd.png)
+
 [cube_galaxy_sky](/statistics/cube_galaxy_sky.ipynb) - maximum likelihood, forward modelling using a selection function
 
 [gmm_ngc_2506](gmm_ngc_2506.ipynb) - query Gaia data, use sklearn to fit a GMM to the proper motions, pick cluster members
