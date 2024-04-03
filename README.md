@@ -15,7 +15,7 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 ## Astronomy
 
-[composite_Gaia_cmd](/statistics/composite_Gaia_cmd.ipynb) - astroquery for Vizier, twinx and twiny axes, rcParams options
+[composite_Gaia_cmd](composite_Gaia_cmd.ipynb) - astroquery for Vizier, twinx and twiny axes, rcParams options
 
 ![image](/img/img_cmd.png)
 
