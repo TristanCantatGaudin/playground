@@ -53,9 +53,9 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [scrape_all_rookie_stats](/nba/scrape_all_rookie_stats.ipynb) - pandas to read tables, flatten nested columns
 
-[google_trends_eclipse_2024](google_trends_eclipse_2024.ipynb) - plotly chloroplet maps, show export to standalone HTML page 
+[google_trends_eclipse_2024](google_trends_eclipse_2024.ipynb) - plotly chloroplet maps, show export to standalone HTML page (interactive version [HERE](https://tristancantatgaudin.github.io/docs/google_trends_eclipse_2024.html))
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/google_trends_eclipse_2024.png?raw=true" width=400 height=300 />
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/google_trends_eclipse_2024.png?raw=true" width=400 height=200 />
 
 
 
