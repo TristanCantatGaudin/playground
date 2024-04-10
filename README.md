@@ -55,7 +55,7 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [google_trends_eclipse_2024](google_trends_eclipse_2024.ipynb) - plotly chloroplet maps, show export to standalone HTML page (interactive version [HERE](https://tristancantatgaudin.github.io/docs/google_trends_eclipse_2024.html))
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/google_trends_eclipse_2024.png?raw=true" width=400 height=200 />
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/google_trends_eclipse_2024.png?raw=true" width=400 height=280 />
 
 
 
