@@ -39,7 +39,7 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 ![image](/img/img_google_trends.png)
 
-[ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers
+[ads_citations_to_gaia_papers](ads_citations_to_gaia_papers.ipynb) - use ADS API and pandas to display monthly citations to *Gaia* data release papers. Updated daily at [this repo](https://github.com/TristanCantatGaudin/ADS-Gaia-Citations) including a [standalone HTML](https://tristancantatgaudin.github.io/ADS-Gaia-Citations/ads-citations-plotly.html) generated with plotly.
 
 ![image](https://raw.githubusercontent.com/TristanCantatGaudin/ADS-Gaia-Citations/main/citations_per_month.png)
 
@@ -53,7 +53,7 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [scrape_all_rookie_stats](/nba/scrape_all_rookie_stats.ipynb) - pandas to read tables, flatten nested columns
 
-[google_trends_eclipse_2024](google_trends_eclipse_2024.ipynb) - plotly chloroplet maps, show export to standalone HTML page (interactive version [HERE](https://tristancantatgaudin.github.io/docs/google_trends_eclipse_2024.html))
+[google_trends_eclipse_2024](google_trends_eclipse_2024.ipynb) - plotly chloropleth maps, show export to standalone HTML page (interactive version [HERE](https://tristancantatgaudin.github.io/docs/google_trends_eclipse_2024.html))
 
 <img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/google_trends_eclipse_2024.png?raw=true" width=400 height=280 />
 
