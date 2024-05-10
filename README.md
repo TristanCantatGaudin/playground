@@ -13,6 +13,8 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [statistical_copulae](/statistics/statistical_copulae.ipynb) - intuitive introduction to empirical copulae as joint cumulative distributions, examples of Gaussian, Student-t, and actual APOGEE data.
 
+[maximum_likelihood_parallax](/statistics/maximum_likelihood_parallax.ipynb) - brute force illustration of estimating the mean and intrinsic dispersion of a 1D distribution of points with individual measurement errors
+
 ## Astronomy
 
 [composite_Gaia_cmd](composite_Gaia_cmd.ipynb) - astroquery for Vizier, twinx and twiny axes, rcParams options
