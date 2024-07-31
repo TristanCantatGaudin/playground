@@ -15,6 +15,9 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [maximum_likelihood_parallax](/statistics/maximum_likelihood_parallax.ipynb) - brute force illustration of estimating the mean and intrinsic dispersion of a 1D distribution of points with individual measurement errors
 
+[gaussian_processes_for_dummies](/statistics/gaussian_processes_for_dummies.ipynb)
+
+
 ## Astronomy
 
 [composite_Gaia_cmd](composite_Gaia_cmd.ipynb) - astroquery for Vizier, twinx and twiny axes, rcParams options
