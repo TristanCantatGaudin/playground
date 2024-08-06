@@ -67,7 +67,7 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [bar_chart_color_rain.ipynb) - package `meteostat` for historical weather, glow, font, legend.
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" />
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" width=600 height=280 />
 
 
 
