@@ -65,7 +65,9 @@ Examples using Python libraries for data scraping, cleaning, visualisation, proc
 
 [max_temp_three_cities](max_temp_three_cities.ipynb) - package `meteostat` for historical weather, `cmasher` for the cool colour map, colorbar outside the subplots.
 
-<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/max_temp_1950_2024.png?raw=true" width=800 height=300 />
+[bar_chart_color_rain.ipynb) - package `meteostat` for historical weather, glow, font, legend.
+
+<img src="https://github.com/TristanCantatGaudin/playground/blob/main/img/rain.png?raw=true" />
 
 
 
