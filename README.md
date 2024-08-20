@@ -30,6 +30,8 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 ![image](/img/img_gmm_ngc2506.png)
 
+[dbscan_ngc_2506](dbscan_ngc_2506.ipynb) - clustering of NGC 2506 in proper motion space using DBSCAN and HDBSCAN
+
 [gaia_archive_queries](gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
 
 ## Data science and visualisation
