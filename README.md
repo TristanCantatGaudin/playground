@@ -34,6 +34,9 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [gaia_archive_queries](gaia_archive_queries.ipynb) - examples of simple and advanced ADQL queries and programmatic access to the Gaia archive
 
+[gaia_light_curves](gaia_light_curves.ipynb) - query photometric time series for Gaia variable stars, fold their light curve
+
+
 ## Data science and visualisation
 
 Examples using Python libraries for data scraping, cleaning, visualisation, processing.
