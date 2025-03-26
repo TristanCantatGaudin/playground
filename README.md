@@ -36,6 +36,9 @@ Miscellaneous scripts and notebooks for data scraping, visualisation, statistics
 
 [gaia_light_curves](gaia_light_curves.ipynb) - query photometric time series for Gaia variable stars, fold their light curve
 
+[healpix_gaia_transits](healpix_gaia_transits.ipynb) - max number of matched transits in healpix regions, comparing Gaia DR2 and DR3
+
+![image](/img/gaia_transits.png)
 
 ## Data science and visualisation
 
