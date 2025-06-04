@@ -26,4 +26,4 @@ The notebook is also executable with `uv run temperature_HD.py`, even if you don
     # ]
     # ///
 
-Which I have added by doing: `uv add --script temperature_HD.py pandas matplotlib` etc. 
+Which I have added by doing: `uv add --script temperature_HD.py pandas matplotlib` etc. UV creates a temporary virtual environment. To run it with `./temperature_HD.py´ you can add the shebang `#!/usr/bin/env -S uv run --script` at the top of the script.
